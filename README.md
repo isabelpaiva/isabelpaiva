@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isabelpaiva
-- 👀 I’m interested in programming
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 
 <!---
