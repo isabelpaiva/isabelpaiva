@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isabelpaiva
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning javascript
 
 <!---
 isabelpaiva/isabelpaiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
