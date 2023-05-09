@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#141414&height=120&section=header"/>
 
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                    font=Fira+Code&pause=1000&color=F724B7&width=435&lines=Hi%2C+my+name+is+Isabel+Paiva;I'm+21+years+old" alt="Typing SVG" /></a>
@@ -43,7 +43,7 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#141414&height=120&section=footer"/>
 <!---
 isabelpaiva/isabelpaiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
