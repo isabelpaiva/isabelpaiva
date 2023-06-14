@@ -34,6 +34,5 @@
   <a href="https://github.com/isabelpaiva">
     <img src="https://komarev.com/ghpvc/?username=isabelpaivam&color=ff69b4&)" /> 
   </a>
-</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F29BBB&height=120&section=footer"/>
 </div>
