@@ -3,7 +3,9 @@
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                    font=Fira+Code&pause=1000&color=F29BBB&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Isabel;I'm+a+Front-End+Developer;" alt="Typing SVG" /></a>
 </div>
+
 <br>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isabelpaiva&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="isabel github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelpaiva&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
@@ -26,8 +28,6 @@
  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; 
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-<br>
-<br>
 <br>
 
 <div align="center">
