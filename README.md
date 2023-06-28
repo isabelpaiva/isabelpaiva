@@ -19,9 +19,11 @@
 <a href="https://www.linkedin.com/in/isabelpaivas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-### 🤍   Studying in this moment:
+###    Studying in this moment:
  ![Python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-### 🤍   Technologies: 
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+ 
+###    Technologies: 
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; 
  ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)&nbsp;
